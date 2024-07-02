@@ -20,7 +20,6 @@ Task 1: Develop a web page with five buttons (forward, backward, right, left, st
 2. Open Visual Studio Code (or your preferred code editor) and create the following files in your project folder:
     - `index.html`
     - `style.css`
-    - `script.js`
     - `save_button_click.php`
 3. After creating and saving your files, move the entire project folder to the `htdocs` directory in your XAMPP installation (usually located at `C:\xampp\htdocs` on Windows or `/Applications/XAMPP/htdocs` on macOS).
 4. Open phpMyAdmin (`http://localhost/phpmyadmin`) and create a new database named `Robot`.
