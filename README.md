@@ -35,6 +35,6 @@ Task 1: Develop a web page with five buttons (forward, backward, right, left, st
 2. Click on the buttons to send their names to the MySQL database.
 
 ## Web Page Preview
-![Web Page Preview](button.gif)
+![Web Page Preview](Button.gif)
 
 
