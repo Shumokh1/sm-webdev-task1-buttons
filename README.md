@@ -6,7 +6,6 @@ Task 1: Develop a web page with five buttons (forward, backward, right, left, st
 ## Project Structure
 - `index.html`: The web page with five buttons.
 - `style.css`: The stylesheet for styling the buttons.
-- `script.js`: The JavaScript file for handling button clicks.
 - `database.php`: The PHP script for connecting to the MySQL database and inserting button click data.
 
 ## Installation
