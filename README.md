@@ -3,6 +3,10 @@
 ## Description
 Task 1: Develop a web page with five buttons (forward, backward, right, left, stop). Each button, when clicked, sends its name to a MySQL database.
 
+
+## Web Page Preview
+https://github.com/Shumokh1/sm-webdev-task1-buttons/assets/151425117/de673ed9-cd6a-4425-a6b0-727aeef579fb
+
 ## Project Structure
 - `index.html`: The web page with five buttons.
 - `style.css`: The stylesheet for styling the buttons.
@@ -32,7 +36,5 @@ Task 1: Develop a web page with five buttons (forward, backward, right, left, st
 1. Open your web browser and navigate to `localhost/your_folder_name`.
 2. Click on the buttons to send their names to the MySQL database.
 
-## Web Page Preview
-![Web Page Preview](button.gif)
 
 
