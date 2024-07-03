@@ -36,5 +36,6 @@ https://github.com/Shumokh1/sm-webdev-task1-buttons/assets/151425117/de673ed9-cd
 1. Open your web browser and navigate to `localhost/your_folder_name`.
 2. Click on the buttons to send their names to the MySQL database.
 
-
+## Credits
+https://getcssscan.com/css-buttons-examples
 
